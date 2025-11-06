@@ -1,28 +1,9 @@
-<<<<<<< HEAD
-# hotspot_hosts
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # 8Club Assignment  
 
 ## 🧾 Overview  
 This Flutter project implements the **Hotspot Host Onboarding Flow**, designed to evaluate and onboard potential event hosts for the Hotspot platform.  
 The flow collects host preferences, motivations, and responses through **text, audio, and video** — ensuring that each host aligns with the community’s standards and can facilitate safe, engaging, and inclusive social experiences.  
 
----
 
 ## ✨ Features  
 
@@ -68,5 +49,15 @@ API integration handled with **Dio**, providing structured API calls, error hand
 - **Responsive and adaptive** across all device resolutions.  
 - **Keyboard-aware layouts** for input-heavy sections.  
 
+## 🏅 Brownie Points Implemented
 
->>>>>>> 61a58b81b6e3db8cb8a393816ce2d289240f7f19
+The following optional enhancements were successfully implemented beyond the core requirements:
+
+- 🎧 **Audio Recording with Playback Preview** – Users can record their responses and replay them before submission.  
+- 🎥 **Video Recording with Playback Preview** – Users can record video answers and watch them before proceeding.  
+- 🌊 **Real-Time Audio Waveform Visualization** – Dynamic waveform animation during audio recording for a professional experience.  
+- 🌀 **Animated Next Button** – Smooth expansion and color transition when both audio and video are recorded.  
+- 🧩 **MVC Architecture with Riverpod State Management** – Ensures clean separation of logic, scalability, and testability.  
+- 🧠 **Responsive & Keyboard-Aware UI** – Fully optimized layouts for all screen sizes and safe keyboard interactions.  
+- ⚡ **Seamless UX Flow** – Fluid navigation and instant feedback make the onboarding experience intuitive and engaging.
+
