@@ -21,7 +21,7 @@ The flow collects host preferences, motivations, and responses through **text, a
 - Displays a question: **“Why do you want to host with us?”**  
 - Includes a **multi-line text field** with a **600-character limit**.  
 - Provides **audio and video recording** options for richer, more expressive answers.  
-- Shows **waveform visualization** during audio recording.  
+- Shows **visualization** during audio recording.  
 - Allows **canceling and deleting** audio or video recordings.  
 - Adds **playback preview** for both audio and video — users can review their recordings before proceeding.  
 - When both audio and video are recorded, the **Next button expands and changes color** with a smooth animation.  
@@ -55,7 +55,6 @@ The following optional enhancements were successfully implemented beyond the cor
 
 - 🎧 **Audio Recording with Playback Preview** – Users can record their responses and replay them before submission.  
 - 🎥 **Video Recording with Playback Preview** – Users can record video answers and watch them before proceeding.  
-- 🌊 **Real-Time Audio Waveform Visualization** – Dynamic waveform animation during audio recording for a professional experience.  
 - 🌀 **Animated Next Button** – Smooth expansion and color transition when both audio and video are recorded.  
 - 🧩 **MVC Architecture with Riverpod State Management** – Ensures clean separation of logic, scalability, and testability.  
 - 🧠 **Responsive & Keyboard-Aware UI** – Fully optimized layouts for all screen sizes and safe keyboard interactions.  
