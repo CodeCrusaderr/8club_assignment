@@ -1,5 +1,3 @@
-![GitHub Repo Views](https://komarev.com/ghpvc/?username=CodeCrusaderr&repo=8club_assignment&style=for-the-badge&color=blue)
-![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=clones&query=count&url=https://api.github.com/repos/CodeCrusaderr/8club_assignment/traffic/clones&style=for-the-badge)
 # 8Club Assignment  
 
 ## 🧾 Overview  
